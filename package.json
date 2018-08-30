@@ -1,0 +1,23 @@
+{
+  "name": "array-copy",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of Java 'arraycopy' method",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresroberto/array-copy.git"
+  },
+  "keywords": [],
+  "author": "Andres Rojas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresroberto/array-copy/issues"
+  },
+  "homepage": "https://github.com/andresroberto/array-copy#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
