@@ -1,4 +1,7 @@
 # Array Copy method
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/andresroberto/array-copy.svg)](https://greenkeeper.io/)
+
 A too simple JavaScript implementation of the [Java 'arraycopy' method](https://docs.oracle.com/javase/10/docs/api/java/lang/System.html#arraycopy(java.lang.Object,int,java.lang.Object,int,int)).
 
 # Exceptions
